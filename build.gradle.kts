@@ -39,6 +39,7 @@ allprojects {
         mavenLocal()
         mavenCentral()
 
+        maven("https://repo.md-5.net/content/repositories/releases/")
         maven("https://repo.papermc.io/repository/maven-public/")
         maven("https://repo.auxilor.io/repository/maven-public/")
         maven("https://hub.spigotmc.org/nexus/content/repositories/snapshots/")
